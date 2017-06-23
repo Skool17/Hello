@@ -1,5 +1,5 @@
 #ifndef FUNC_H
-#defien FUNC_H
+#define FUNC_H
 
 void func();
 

@@ -4,6 +4,6 @@
 
 void func()
 {
-	printf("Hello world!);
+	printf("Hello world!");
 	system("PAUSE");
 }
